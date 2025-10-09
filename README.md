@@ -6,11 +6,11 @@
 
 <!-- Banner Image - Create and upload banner.png to your repository -->
 <div align="center">
-  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true" alt="Ko Htike - Senior Full Stack Developer" width="100%" />
+  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true&v=1" alt="Ko Htike - Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-weight: bold;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ko+Htike!;Senior+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ko+Htike!;Full+Stack+Developer" />
 </h1>
 
 ### Passionate Full-Stack Developer with 8+ years crafting high-performance web apps using PHP (Laravel & Symfony), Python web frameworks, Node.js, and modern technologies. I thrive on turning complex problems into scalable solutions—whether it's building Telegram bots, Node.js APIs, optimizing performance, securing transactions, or developing mobile apps with Flutter.
@@ -27,13 +27,13 @@
 -   🔭 I'm currently working on **Project Coordination at Stay2Hotel**
 -   🌱 I'm currently learning **Advanced Cloud Architecture & System Optimization**
 -   💬 Ask me about **PHP, Laravel, Python, Node.js, Telegram Bots, WebSocket, Flutter, API Development, Database Optimization, Team Leadership**
--   📫 How to reach me: **kohtiketun@gmail.com**
+-   📫 How to reach me: **kohtiketun@outlook.com**
 -   ⚡ Fun fact: **I don't just write code—I solve business problems with tech. Let's build something fast and bulletproof!**
 
   <br>
 
 <div align="center">
-  <a href="mailto:kohtiketun@gmail.com">
+  <a href="mailto:kohtiketun@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="tel:+959262605717">
@@ -79,9 +79,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1" />
   </picture>
 </div>
 
@@ -156,7 +156,7 @@
 
 ## 📈 Activity Graph
 
-[![Htike Tun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HtikeTun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Htike Tun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HtikeTun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph?v=1)
 
 ---
 
