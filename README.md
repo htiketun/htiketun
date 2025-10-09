@@ -142,7 +142,7 @@
 ## 🎯 Current Focus
 
 -   🔭 Coordinating projects at **Stay2Hotel** for hospitality technology solutions
--   � Building **Python web services** and **Telegram bot integrations**
+-   🐍 Building **Python web services** and **Telegram bot integrations**
 -   🟢 Developing **Node.js backend services** and **Express.js APIs**
 -   📱 Creating **Flutter mobile applications** for various use cases
 -   🔌 Implementing **WebSocket** real-time communication systems
