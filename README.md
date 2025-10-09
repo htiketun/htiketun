@@ -1,26 +1,17 @@
-<span style="font-family: 'Fira Mono', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; font-weight: bold; letter-spacing: 1.3px;">
-  <div align="center" > 
-    <p>Visitor count</p>
-    <img src="https://profile-counter.deno.dev/HtikeTun/count.svg" alt="Htike Tun - Visit## 🎯 Current Focus
-
--   🔭 Coordinating projects at **Stay2Hotel** for hospitality technology solutions
--   🐍 Building **Python web services** and **Telegram bot integrations**
--   🟢 Developing **Node.js backend services** and **Express.js APIs**
--   📱 Creating **Flutter mobile applications** for various use cases
--   🔌 Implementing **WebSocket** real-time communication systems
--   📚 Mastering **Advanced Cloud Architecture & System Optimization**
--   🚀 Building **high-performance APIs** serving millions of requests
--   💡 Implementing **CI/CD pipelines** and **Docker containerization**
--   👥 **Mentoring developers** and driving technical excellence
--   🔧 Optimizing **legacy systems** for modern scalabilityt" />
+<div align="center"> 
+  <p style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;">Visitor count</p>
+  <img src="https://profile-counter.deno.dev/HtikeTun/count.svg" alt="Htike Tun - Visitor's Count" />
 </div>
 <br>
 
-  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png" alt="Ko Htike - Senior Full Stack Developer">
+<!-- Banner Image - Create and upload banner.png to your repository -->
+<div align="center">
+  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true" alt="Ko Htike - Senior Full Stack Developer" width="100%" />
+</div>
 
-  <h1 align="center" style="font-family: 'Fira Mono', 'Consolas', 'Monaco', monospace; font-weight: bold; color: #27ae60;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Mono&size=48&center=true&vCenter=true&width=500&height=70&color=27ae60&duration=4000&lines=Hi+There!+👋;+I'm+Ko+Htike!;Senior+Full+Stack+Developer" />
-  </h1>
+<h1 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-weight: bold;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ko+Htike!;Senior+Full+Stack+Developer" />
+</h1>
 
 ### Passionate Full-Stack Developer with 8+ years crafting high-performance web apps using PHP (Laravel & Symfony), Python web frameworks, Node.js, and modern technologies. I thrive on turning complex problems into scalable solutions—whether it's building Telegram bots, Node.js APIs, optimizing performance, securing transactions, or developing mobile apps with Flutter.
 
@@ -41,17 +32,17 @@
 
   <br>
 
-  <div align="center">
-    <a href="mailto:personal.htaylatwin@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="tel:+959262605717">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Location-Yangon%2C%20Myanmar-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    </a>
-  </div>
+<div align="center">
+  <a href="mailto:kohtiketun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="tel:+959262605717">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Yangon%2C%20Myanmar-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</div>
 
   <hr>
 
@@ -86,13 +77,13 @@
 
 ## 🐍 Contribution Snake
 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HtikeTun/HtikeTun/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HtikeTun/HtikeTun/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/HtikeTun/HtikeTun/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
   <hr>
 
@@ -146,19 +137,22 @@
 -   Collaborated with frontend teams to deliver seamless integrations
 -   Provided ongoing support and improvements for deployed systems
 
-  <hr>
+<hr>
 
 ## 🎯 Current Focus
 
 -   🔭 Coordinating projects at **Stay2Hotel** for hospitality technology solutions
--   👨‍💻 Leading development teams at **Yoma Strategic Holdings (Onenex)**
+-   � Building **Python web services** and **Telegram bot integrations**
+-   🟢 Developing **Node.js backend services** and **Express.js APIs**
+-   📱 Creating **Flutter mobile applications** for various use cases
+-   🔌 Implementing **WebSocket** real-time communication systems
 -   📚 Mastering **Advanced Cloud Architecture & System Optimization**
 -   🚀 Building **high-performance APIs** serving millions of requests
 -   💡 Implementing **CI/CD pipelines** and **Docker containerization**
--   � **Mentoring developers** and driving technical excellence
+-   👥 **Mentoring developers** and driving technical excellence
 -   🔧 Optimizing **legacy systems** for modern scalability
 
-  <hr>
+<hr>
 
 ## 📈 Activity Graph
 
@@ -166,8 +160,7 @@
 
 ---
 
-  <div align="center">
-    <h3>Thanks for visiting my profile! 😊</h3>
-    <p>Feel free to connect with me and explore my repositories!</p>
-  </div>
-</span>
+<div align="center">
+  <h3>Thanks for visiting my profile! 😊</h3>
+  <p>Feel free to connect with me and explore my repositories!</p>
+</div>
