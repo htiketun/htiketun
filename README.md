@@ -1,12 +1,12 @@
 <div align="center"> 
   <p style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;">Visitor count</p>
-  <img src="https://profile-counter.deno.dev/HtikeTun/count.svg" alt="Htike Tun - Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/htiketun/count.svg" alt="Htike Tun - Visitor's Count" />
 </div>
 <br>
 
 <!-- Banner Image - Create and upload banner.png to your repository -->
 <div align="center">
-  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true&v=1" alt="Ko Htike - Full Stack Developer" width="100%" />
+  <img src="https://github.com/htiketun/htiketun/blob/main/banner.png?raw=true&v=1" alt="Ko Htike - Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-weight: bold;">
@@ -68,9 +68,9 @@
   <br>
 
   <div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=HtikeTun&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Htike Tun's GitHub Stats" />
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HtikeTun&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Htike Tun's GitHub Streak" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtikeTun&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Htike Tun's Most Used Languages" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=htiketun&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en?v=1" alt="Htike Tun's GitHub Stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=htiketun&theme=transparent&count_private=true&border_radius=10&locale=en?v=1" alt="Htike Tun's GitHub Streak" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=htiketun&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en?v=1" alt="Htike Tun's Most Used Languages" />
   </div>
 
   <hr>
@@ -156,7 +156,7 @@
 
 ## 📈 Activity Graph
 
-[![Htike Tun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HtikeTun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph?v=1)
+[![Htike Tun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=htiketun&theme=react-dark>v=1)]
 
 ---
 
