@@ -6,7 +6,7 @@
 
 <!-- Banner Image - Create and upload banner.png to your repository -->
 <div align="center">
-  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true&v=1" alt="Ko Htike - Full Stack Developer" width="100%" />
+  <img src="https://github.com/HtikeTun/HtikeTun/blob/main/banner.png?raw=true&v=1.1" alt="Ko Htike - Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-weight: bold;">
@@ -68,9 +68,9 @@
   <br>
 
   <div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=HtikeTun&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&v=1" alt="Htike Tun's GitHub Stats" />
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HtikeTun&theme=transparent&count_private=true&border_radius=10&locale=en&v=1" alt="Htike Tun's GitHub Streak" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtikeTun&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&v=1" alt="Htike Tun's Most Used Languages" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=HtikeTun&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&v=1.1" alt="Htike Tun's GitHub Stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HtikeTun&theme=transparent&count_private=true&border_radius=10&locale=en&v=1.1" alt="Htike Tun's GitHub Streak" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtikeTun&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&v=1.1" alt="Htike Tun's Most Used Languages" />
   </div>
 
   <hr>
@@ -79,9 +79,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake-dark.svg?v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake-dark.svg?v=1.1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1.1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/htiketun/htiketun/output/github-contribution-grid-snake.svg?v=1.1" />
   </picture>
 </div>
 
