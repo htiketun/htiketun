@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="mailto:kohtiketun@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="tel:+959262605717">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
